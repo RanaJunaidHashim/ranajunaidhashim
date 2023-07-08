@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Junaid Rana, a self-taught web developer specializing in web design, web app, and website development
+I'm Junaid Rana, a self-taught developer specializing in web design, web app, and website development
 with a focus on motion, experience design, and accessibility.
 ## 🌐 Socials:
 
